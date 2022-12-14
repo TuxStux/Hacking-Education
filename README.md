@@ -1,6 +1,5 @@
 # Hacking-Education
-This is a compiled list of different sites that have aided me in one way or another. 
-Plan on cleaning this up and reorganizing in the future...
+
 -----
 # Educational Links
 - https://my.ine.com/
